@@ -1,4 +1,5 @@
 # Social Medi - Mongo/E/React/Node/Graphql.
+(https://github.com/LeoGoubard/LeoGoubard/blob/master/image/cover.png)
 Project React/Node build with Semantic-UI, for the moment the app is not optimized for Mobile
 
 ## Deployed by Netify and Heroku :
