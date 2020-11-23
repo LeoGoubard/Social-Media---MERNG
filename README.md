@@ -1,5 +1,5 @@
 # Social Medi - Mongo/E/React/Node/Graphql.
-![Screenshot](https://github.com/LeoGoubard/LeoGoubard/blob/master/image/cover.png)
+![Screenshot](https://github.com/LeoGoubard/LeoGoubard/blob/master/image/page1.PNG)
 
 Project React/Node build with Semantic-UI, for the moment the app is not optimized for Mobile
 
